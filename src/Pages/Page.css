@@ -2,6 +2,7 @@
     width: 100%;
     height: 100vh;
     overflow-x: hidden;
+    overflow-y: auto;
 }
 
 .left-section {
@@ -113,5 +114,17 @@
 @media screen and (max-width: 880px) {
     .hamburgerMenu{
         display: block;
+    }
+    .signin-container{
+        flex-direction: column;
+    }
+    .left-section {
+        width: auto;
+        padding: 80px;
+    }
+    .right-section{
+        width: auto;
+        margin-top: 80px;
+        margin-bottom: 30px;
     }
 }
