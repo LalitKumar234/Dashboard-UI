@@ -1,0 +1,98 @@
+[
+    {
+        "month": "Jan - Feb",
+        "Year": "2023",
+        "weeklyUser": [
+            100,
+            300,
+            200,
+            500
+        ],
+        "weeklyGuest": [
+            160,
+            100,
+            250,
+            490
+        ]
+    },
+    {
+        "month": "Feb - March",
+        "Year": "2023",
+        "weeklyUser": [
+            200,
+            100,
+            400,
+            480
+        ],
+        "weeklyGuest": [
+            160,
+            450,
+            350,
+            50
+        ]
+    },
+    {
+        "month": "March - April",
+        "Year": "2023",
+        "weeklyUser": [
+            200,
+            100,
+            320,
+            500
+        ],
+        "weeklyGuest": [
+            160,
+            100,
+            120,
+            190
+        ]
+    },
+    {
+        "month": "April - May",
+        "Year": "2023",
+        "weeklyUser": [
+            100,
+            300,
+            200,
+            500
+        ],
+        "weeklyGuest": [
+            160,
+            100,
+            250,
+            490
+        ]
+    },
+    {
+        "month": "May - June",
+        "Year": "2023",
+        "weeklyUser": [
+            50,
+            200,
+            120,
+            300
+        ],
+        "weeklyGuest": [
+            20,
+            300,
+            150,
+            590
+        ]
+    },
+    {
+        "month": "June - July",
+        "Year": "2023",
+        "weeklyUser": [
+            500,
+            100,
+            280,
+            500
+        ],
+        "weeklyGuest": [
+            120,
+            180,
+            230,
+            490
+        ]
+    }
+]

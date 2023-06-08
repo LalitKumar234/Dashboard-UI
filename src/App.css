@@ -1,0 +1,67 @@
+/* Colors */
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --bg: #F5F5F5;
+  --links: #346BD4;
+  --text-grey: #858585;
+  --text-grey-dark:#666666;
+}
+:root {
+  --Montserrat: 'Montserrat', sans-serif;
+  --Lato:'Lato', sans-serif;
+  --OpenSans: 'Open Sans', sans-serif;
+}
+.fx{
+  display: flex;
+}
+.al-cnt{
+  align-items: center;
+}
+.fx-cnt{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fx-d-col{
+  flex-direction: column;
+}
+.jus-between{
+  justify-content: space-between;
+}
+.jus-around{
+  justify-content: space-around;
+}
+.jus-end{
+  justify-content: flex-end;
+}
+.al-start{
+  align-items: flex-start;
+}
+.gap-5{
+  gap: 5px;
+}
+.gap-10{
+  gap: 10px;
+}
+.gap-25{
+  gap: 25px;
+}
+.gap-20{
+  gap: 20px;
+}
+.gap-40{
+  gap: 40px;
+}
+.mt-20{
+  margin-top: 20px !important;
+}
+.mb-20{
+  margin-bottom: 20px !important;
+}
+.mt-40{
+  margin-top: 40px;
+}
+li{
+  list-style: none;
+}

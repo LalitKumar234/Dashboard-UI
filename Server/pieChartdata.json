@@ -1,0 +1,39 @@
+[
+    {
+        "month": "Jan - Feb",
+        "Year": "2023",
+        "products": ["Basic Tees", "Custom Short Pants", "Super Hoodies"],
+        "sale": [12, 14, 40]
+        
+    },
+    {
+        "month": "Feb - March",
+        "Year": "2023",
+        "products": ["AirPods", "Apple IPhone", "HP Pavilion"],
+        "sale": [20, 45, 90]
+    },
+    {
+        "month": "March - April",
+        "Year": "2023",
+        "products": ["Coffee", "perfume Oil", "Royal_Mirage"],
+        "sale": [100, 20, 80]
+    },
+    {
+        "month": "April - May",
+        "Year": "2023",
+        "products": ["Fog Scent Xpressio", "Al Munakh", "Lord - Al-Rehab"],
+        "sale": [10, 90, 50]
+    },
+    {
+        "month": "May - June",
+        "Year": "2023",
+        "products": ["Hemani Tea", "L'Oreal Paris", "Super Hoodies"],
+        "sale": [90, 100, 20]
+    },
+    {
+        "month": "June - July",
+        "Year": "2023",
+        "products": ["ROREC White Rice", "Dermive", "Fair & Clear"],
+        "sale": [10, 20, 50]
+    }
+]
