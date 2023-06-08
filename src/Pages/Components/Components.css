@@ -298,7 +298,14 @@
     border-left: 5px solid #6972C3;
 }
 .bottom-items{
-    padding-bottom: 90px;
+    padding-bottom: 40px;
+}
+.footerContainer{
+    background-color: var(--white);
+    padding: 30px 40px;
+    border-radius: 20px;
+    font-family: var(--Lato);
+
 }
 /* Media Queries */
 @media screen and (max-width: 1280px) {

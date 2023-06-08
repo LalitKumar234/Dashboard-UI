@@ -6,6 +6,7 @@ import PieChart from './DashboardComponents/PieChart'
 import Schedule from './DashboardComponents/Schedule'
 import { HamBurgerIcon } from '../../Assets'
 import { axiosGet } from '../../axiosService'
+import Footer from './DashboardComponents/Footer'
 
 const Dashboard = ({ setShowSideNav }) => {
 
@@ -29,6 +30,7 @@ const Dashboard = ({ setShowSideNav }) => {
                 <PieChart />
                 <Schedule />
             </div>
+            <Footer/>
 
         </div>
     )
